@@ -137,7 +137,6 @@ dist
 .DS_Store
 
 # IDEs and editors (added from the first variant)
-/.idea
 .project
 .classpath
 .c9/
